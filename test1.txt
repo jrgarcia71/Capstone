@@ -1,0 +1,24 @@
+# Capstone: Look for a place to a new business in Toronto 
+#
+#
+## Business case:
+#
+### A group of friends want to open a new market place. The market will sell all kind of things and food to restaurants, from cultlery and napkins to fresh food and vegetables.
+### The store must be located near to a restaurant zone for easy come and easy delivery.
+#
+## The problem: 
+### Where must be locate the new store? 
+### How to know the location is good for theese kind of business?
+#
+## The solution:
+### Using Data science to know the correct neighborhood, near to the restaurants.
+### Social and economic situation of the people of the chossen neighborhood.
+#
+#
+#
+## The data needed:
+#
+### - The neighborhoods and the respective postal code
+### - The population of each neighborhood
+### - The neighborhhod income after tax
+### - Using foursquare to obtain the list of restuarants
