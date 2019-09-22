@@ -1,0 +1,16 @@
+FROM MIAMI TO NEW YORK
+
+A friend of mine will move from Kendall in Miami, FL to Manhattan, New York. He ask to me to compare his actually neighborhood(FL) to others 
+In New York to find a similar place to rent.
+
+Also he wants:
+-To be near a subway station
+-Pay less than USD 7000
+
+
+Data Used:
+- Kendall geolocation
+- Kendall Venues 
+- Manhattan venues
+- Manhattan place for rent(less than USD 7000)
+- Manhattan subway stations locations
